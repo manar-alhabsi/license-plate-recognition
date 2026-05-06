@@ -1,4 +1,4 @@
-# license-plate-recognition# License Plate Recognition
+# License Plate Recognition
 
 This is a deep learning project for detecting and recognizing license plates from images using PyTorch.
 
